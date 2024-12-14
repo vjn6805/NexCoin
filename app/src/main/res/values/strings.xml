@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NexCoin</string>
+    <string name="search">Search</string>
+    <string name="price">price</string>
+    <string name="name">Name</string>
+    <string name="symbol">Symbol</string>
+</resources>
