@@ -18,11 +18,11 @@ NexCoin is an Android application designed to track cryptocurrency prices in rea
 ## Dependencies
 To run the application, you will need to add the following dependencies in your build.gradle files:
 
-implementation 'com.squareup.retrofit2:retrofit:2.x.x'
-implementation 'com.squareup.retrofit2:converter-gson:2.x.x'
-implementation 'com.google.code.gson:gson:2.x.x'
-implementation 'com.android.support:appcompat-v7:28.x.x'
+- implementation 'com.squareup.retrofit2:retrofit:2.x.x'
+- implementation 'com.squareup.retrofit2:converter-gson:2.x.x'
+- implementation 'com.google.code.gson:gson:2.x.x'
+- implementation 'com.android.support:appcompat-v7:28.x.x'
 
 ## Acknowledgments
-Thanks to CoinGecko API for providing reliable cryptocurrency data.
-Android and Kotlin communities for providing learning resources.
+- Thanks to CoinGecko API for providing reliable cryptocurrency data.
+- Android and Kotlin communities for providing learning resources.
